@@ -24,6 +24,12 @@ Petunjuk instalasi dan menjalankan proyek akan ditambahkan setelah source code d
 
 Kontribusi dan ide sangat disambut. Sebelum mengirim perubahan, silakan buat issue atau diskusikan terlebih dahulu agar arah pekerjaan tetap selaras.
 
+## Template modul
+
+Panduan struktur dan tanggung jawab file untuk membuat modul backend tersedia di
+[docs/module-template.md](./docs/module-template.md). Template ini tidak mengunci proyek
+ke bahasa atau framework tertentu.
+
 ## Lisensi
 
 Lisensi belum ditentukan. Tambahkan file `LICENSE` dan perbarui bagian ini setelah lisensi proyek dipilih.
